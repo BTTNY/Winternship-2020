@@ -11,7 +11,7 @@ See [Winternship FAQ](FAQ.md)
 - To Dos Before Janaury
 - To Dos Before Day 1
 
-## [Orientation Materials](/Orientation/README.md)
+## [Orientation Materials](Orientation/)
  - Challenge Project
  - HR Processes
  - Operating in a Professional Environment 
