@@ -5,7 +5,7 @@
 - [When will I hear from my Winternship host?](#when-will-i-hear-from-my-winternship-host)
 - [What is the schedule for Winternship?](#what-is-the-schedule-for-winternship)
 - [How much will I get paid?](#how-much-will-i-get-paid)
-- [When and how should I ask my Winternship host about religious, medical, and/or other accommodations?](#when-and-how-should-i-ask-my-winternship-host-about-religious-medical-and-or-other-accommodations?)
+- [When and how should I ask my Winternship host about religious, medical, or other accommodations?](#when-and-how-should-i-ask-my-winternship-host-about-religious-medical-or-other-accommodations)
 - [Do I need to bring my own laptop?](#do-i-need-to-bring-my-own-laptop)
 - [What should I wear?](#what-should-i-wear)
 - [What should I ask my Winternship host?](#what-should-i-ask-my-winternship-host)
@@ -13,8 +13,9 @@
 **During Winternship**
 - [What is the Challenge Project?](#what-is-the-challenge-project)
 - [What skills will I learn during Winternship?](#what-skills-will-i-learn-during-winternship)
-- [Do I report to WiTNY during Winternship?](#do-i-report-to-witny-during-winternship)
-- [How can I make the most of my Winternship?](#how-can-i-make-the-most-of-my-winternship?)
+- [Do I report to WiTNY during my Winternship?](#do-i-report-to-witny-during-my-winternship)
+- [What should I do if I have to stay home sick? What should I do if I am late or have to leave early?](#what-should-i-do-if-i-have-to-stay-home-sick-what-should-i-do-if-i-am-late-or-have-to-leave-early)
+- [How can I make the most of my Winternship?](#how-can-i-make-the-most-of-my-winternship)
 
 **After Winternship**
 - [Does Winternship guarantee that I will get a summer internship?](#does-winternship-guarantee-that-i-will-get-a-summer-internship)
@@ -39,7 +40,7 @@ Regardless of where your Winternship host is located, all Winterns are paid at l
 #### **Will I be provided with a MetroCard and/or reimbursed for transportation?**
 With a few exceptions, Winterns are not given MetroCards or reimbursed for their transportation by WiTNY or their Winternship hosts. You are expected to cover your own transportation costs. 
 
-#### **When and how should I ask my Winternship host about religious, medical, and/or other accommodations?**
+#### **When and how should I ask my Winternship host about religious, medical, or other accommodations?**
 If you need religious, medical, and/or other accommodations at work, talk to your HR representative after they start onboarding. HR will work with you to arrange accommodations. Email witny@cornell.edu if you have any questions about or issues with accommodations.
  
 #### **Do I need to bring my own laptop?**
@@ -69,6 +70,9 @@ If there are skills that you would like to learn during Winternship, talk to you
 
 #### **Do I report to WiTNY during my Winternship?**
 All Winterns report to a manager at their Winternship host. 
+
+#### **What should I do if I have to stay home sick? What should I do if I am late or have to leave early?**
+All Winterns are expected to work for the entirety of Winternship. As soon as you know that you will be absent for any part of the day, let your manager at your Winternship host and WiTNY (witny@cornell.edu) know. **Your Winternship host and WiTNY may revoke your Winternship for a pattern of absences, lateness, or early departures.**
 
 #### **How can I make the most of my Winternship?**
 _Coming Soon!_
